@@ -64,5 +64,22 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Alerta is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://alerta.io/
+Alerta provides an open-source alert management system that aggregates alerts from various monitoring tools, supports deduplication, silencing, and routing via plugins. It offers a RESTful API, web UI, CLI, and SDKs for integration with systems like Prometheus, Grafana, Nagios, Zabbix, and many others. The platform enables teams to manage alert lifecycles, define custom views, and extend functionality through a rich plugin ecosystem.
+
+**Areas:** Company · Alerting · Monitoring · OpenSource · DevOps · IncidentManagement
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://alerta.io/)
+- [Documentation](https://docs.alerta.io/)
+- [Getting started](https://docs.alerta.io/quick-start.html)
+- [API reference](https://docs.alerta.io/api/reference.html)
+- [GitHub](https://github.com/alerta)
+
+**APIs profiled:** 1
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/alerta/](https://apis.io/providers/alerta/).
